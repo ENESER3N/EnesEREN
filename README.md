@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/15915340/1641310176/1500x500" width="1200" height="300" />
+<img src="https://muhendiscekmecesi.com/wp-content/uploads/2019/10/Machine_Learning_In_Cybersecurity_External_Banner_1595-780x470.jpg" width="1200" height="300" />
 
 ## ENES EREN
 
