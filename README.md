@@ -1,6 +1,7 @@
 <img src="https://muhendiscekmecesi.com/wp-content/uploads/2019/10/Machine_Learning_In_Cybersecurity_External_Banner_1595-780x470.jpg" width="1200" height="300" />
 
 ## ENES EREN
+📫 Bana nasıl ulaşabilirsiniz **infoeneseren@gmail.com**
 
 #### ✅ Linkler:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eneser3n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eneser3n) 
