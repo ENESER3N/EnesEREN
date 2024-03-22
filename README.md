@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/694213801813344277/1204158268025479168/So-You-Want-to-Be-a...-Web-Developer-R.jpg?ex=65d3b6c7&is=65c141c7&hm=174b7262596f9f5b4b99a79d9a4f956ea580e83070eb2a335a0e718539bdf6fa&=&format=webp&width=1181&height=662" />
+<img src="https://github.com/EnesER3N/EnesER3N/blob/main/eneseren.png?raw=true&width=1181&height=662" />
 
 ## ENES EREN
 
