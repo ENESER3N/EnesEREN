@@ -3,7 +3,7 @@
 ## ENES EREN
 
 #### ✅ Linkler:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eneser3n) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___eneseren___) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eneser3n) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/EnesER3N)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:infoeneseren@gmail.com)](http://infoeneseren@gmail.com/)
